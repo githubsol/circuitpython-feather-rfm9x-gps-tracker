@@ -6,7 +6,7 @@ A circuitpython project to run on an Adafruit Feather m0 with LoRa rfm9x and a G
 - Find USB Serial device i Device manager, se id
 - Start putty
 - Vælg "serial" forbindelse, indtast id fra device manager
-- Ctrl+C for at stoppe koden
+- Ctrl+C for at stoppe koden - tryk enter
 - Skriv "import os" - tryk enter
 - Skriv os.rename("/boot.py","/boot.py.bak") - tryk enter
 - reset trackeren
